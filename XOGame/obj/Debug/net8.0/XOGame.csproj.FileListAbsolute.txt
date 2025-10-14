@@ -1,0 +1,14 @@
+E:\programming\C#\XOGame\XOGame\bin\Debug\net8.0\XOGame.exe
+E:\programming\C#\XOGame\XOGame\bin\Debug\net8.0\XOGame.deps.json
+E:\programming\C#\XOGame\XOGame\bin\Debug\net8.0\XOGame.runtimeconfig.json
+E:\programming\C#\XOGame\XOGame\bin\Debug\net8.0\XOGame.dll
+E:\programming\C#\XOGame\XOGame\bin\Debug\net8.0\XOGame.pdb
+E:\programming\C#\XOGame\XOGame\obj\Debug\net8.0\XOGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\C#\XOGame\XOGame\obj\Debug\net8.0\XOGame.AssemblyInfoInputs.cache
+E:\programming\C#\XOGame\XOGame\obj\Debug\net8.0\XOGame.AssemblyInfo.cs
+E:\programming\C#\XOGame\XOGame\obj\Debug\net8.0\XOGame.csproj.CoreCompileInputs.cache
+E:\programming\C#\XOGame\XOGame\obj\Debug\net8.0\XOGame.dll
+E:\programming\C#\XOGame\XOGame\obj\Debug\net8.0\refint\XOGame.dll
+E:\programming\C#\XOGame\XOGame\obj\Debug\net8.0\XOGame.pdb
+E:\programming\C#\XOGame\XOGame\obj\Debug\net8.0\XOGame.genruntimeconfig.cache
+E:\programming\C#\XOGame\XOGame\obj\Debug\net8.0\ref\XOGame.dll
