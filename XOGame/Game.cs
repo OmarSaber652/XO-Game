@@ -13,7 +13,7 @@ namespace XOGame
         public Player player2;
         public Player currentPlayer;
         public bool gameOver;
-        public Player winner;
+        public Player? winner;
 
 
         public Game()
