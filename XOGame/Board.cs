@@ -58,7 +58,7 @@ namespace XOGame
 
         public bool IsCellEmpty(int row, int column) 
         { 
-            return grid[row, column] == '.'; 
+            return grid[row, column] == ' '; 
         }
 
         public bool CheckWin(char symbol) 
