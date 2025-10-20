@@ -26,7 +26,7 @@ namespace XOGame
             {
                 for (int j = 0; j < Size; j++)
                 {
-                    grid[i, j] = '.';
+                    grid[i, j] = ' ';
                 }
             }
         }
