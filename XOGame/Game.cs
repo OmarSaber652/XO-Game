@@ -39,6 +39,7 @@ namespace XOGame
                 board.MakeMove(Move.Item1, Move.Item2, currentPlayer.Symbol);
                 CheckGameStatus();
                 if (gameOver) break;
+                else if (!board.correctMove) continue;
                 else SwitchPlayer();
             }
             Console.WriteLine();

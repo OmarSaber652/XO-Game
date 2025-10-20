@@ -10,12 +10,14 @@ namespace XOGame
     {
         public char[,] grid;
         public int Size { get; private set; }
+        public bool correctMove;
 
 
         public Board(int size = 3)
         {
             Size = size;
             grid = new char[Size, Size];
+            correctMove = false;
             InitializeBoard();
         }
 
@@ -83,7 +85,7 @@ namespace XOGame
             {
                 for (int j = 0; j < Size; j++)
                 {
-                    if (grid[i, j] == '.') return false;
+                    if (grid[i, j] == ' ') return false;
                 }
             }
             return true;
